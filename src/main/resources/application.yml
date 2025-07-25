@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/custom_product_test_icet
+    username: root
+    password: Yasith@1.
